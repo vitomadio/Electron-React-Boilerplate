@@ -1,4 +1,4 @@
-# Getting Started with Electron with React 
+# Getting Started with Electron and React application
 
 Clone the repo.
 ``` $ git clone https://github.com/vitomadio/Electron-React-Boilerplate.git ```
